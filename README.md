@@ -20,7 +20,7 @@ Obivously being a friendly, fun person to work with. But that's paramount in any
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## CS-210-and-CS-250
-## Portfolio
+## Portfolio Prep
 ## CS-210 Module 8 Portfolio Item (Project 3) (7-3)
 
 # Summarize the project and what problem it was solving.
